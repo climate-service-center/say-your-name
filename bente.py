@@ -1,2 +1,2 @@
 def say_bente():
-  "Hello Bente!"
+  print("Hello Bente!")

@@ -1,2 +1,2 @@
 def say_irem():
-  "Hello Irem!iremmm"
+  print("Hello Irem!iremmm")

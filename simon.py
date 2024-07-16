@@ -1,2 +1,2 @@
 def say_simon():
-  "Hello Simon!"
+  print("Hello Simon!")

@@ -1,2 +1,2 @@
 def say_maria():
-  "Hello Maria!"
+  print("Hello Maria!")
