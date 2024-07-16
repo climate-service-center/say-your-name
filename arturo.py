@@ -1,2 +1,2 @@
-def say_lars():
+def say_arturo():
   "Hello Arturo!"
