@@ -1,2 +1,2 @@
 def say_arturo():
-  "Hello Arturo!"
+  print("Hello Arturo!")

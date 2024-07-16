@@ -1,2 +1,2 @@
 def say_claas():
-  "Hello Claas!"
+  print("Hello Claas!")
